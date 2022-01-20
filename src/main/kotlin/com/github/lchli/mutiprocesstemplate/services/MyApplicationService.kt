@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lchli.mutiprocesstemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lchli.mutiprocesstemplate.MyBundle
 
 class MyApplicationService {
 

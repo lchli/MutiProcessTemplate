@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.lchli.mutiprocesstemplate.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lchli.mutiprocesstemplate.MyBundle
 
 class MyProjectService(project: Project) {
 
